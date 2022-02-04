@@ -1,0 +1,12 @@
+query GetLaunches($pageSize: Int) {
+  launches(pageSize: $pageSize) {
+    launches {
+      id
+      site
+      mission {
+        name
+        missionPatch
+      }
+    }
+  }
+}
