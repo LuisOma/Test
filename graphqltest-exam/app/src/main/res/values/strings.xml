@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GraphQLTest</string>
+    <string name="app_name">Pokemon Test</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="launch_id">ID: %1$s</string>
